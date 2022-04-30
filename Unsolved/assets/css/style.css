@@ -26,6 +26,7 @@ figure {
 }
 
 /* TODO: Label selector type */
+/* Class selector */
 .highlighted-text {
   font-weight: bolder;
 }
