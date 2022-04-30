@@ -1,9 +1,12 @@
 /* TODO: Label selector type */
+
+/* This one is a Universal Selector */
 * {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   }
 
 /* TODO: Label selector type */
+/*This one is a Element selector*/
 body {
   background-color: lemonchiffon;
 }
